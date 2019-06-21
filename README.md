@@ -20,4 +20,4 @@ The session has three parts:
 
 # Acknowledgements
 
-The slides are adapted from the excellent [lecture series](https://github.com/vmayoral/basic_reinforcement_learning/tree/master/tutorial4) by Prof. David Silver. The q-learning code is adapted from this tutorial series [here](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html). 
+The slides are adapted from the excellent [lecture series](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by Prof. David Silver. The q-learning code is adapted from this tutorial series [here](https://github.com/vmayoral/basic_reinforcement_learning/tree/master/tutorial4). 
